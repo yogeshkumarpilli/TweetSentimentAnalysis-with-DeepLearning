@@ -16,7 +16,7 @@
 
 * Started the basic Multi layer Perceptron and Advanced towards the Transformes
 
-#### Models
+#### Models Learned
 
 * MLP
 * RNN
