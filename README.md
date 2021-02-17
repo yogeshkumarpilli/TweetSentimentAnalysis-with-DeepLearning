@@ -14,7 +14,7 @@
 
 ### Task Performed:
 
-* Started the basic Multi layer Perceptron and Advanced towards the Transformes
+* Started with the basic Multi layer Perceptron and Advanced towards the Transformes
 
 #### Models Learned
 
