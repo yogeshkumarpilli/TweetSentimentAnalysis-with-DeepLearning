@@ -14,8 +14,9 @@
 
 ### Task Performed:
 
-* Started with the basic Multi layer Perceptron and Advanced towards the Transformes
-
+* Started with the basic Multi layer Perceptron 
+* Applied State of the Art Models as Transformers
+* Understanding and classify the user sentiments
 #### Models Learned
 
 * MLP
@@ -28,4 +29,9 @@
 * ROBERTa
 * XLNet
 * DistillBERT
+
+## Future Task
+* Building the GUI interface with the models learned
+* Possibly deploying the models in the Multiple Platforms
+
 
